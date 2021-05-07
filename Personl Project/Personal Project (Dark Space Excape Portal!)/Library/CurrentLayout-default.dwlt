@@ -117,7 +117,7 @@ MonoBehaviour:
   m_MinSize: {x: 909, y: 442}
   m_MaxSize: {x: 22004, y: 10021}
   vertical: 0
-  controlID: 74836
+  controlID: 85
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 74837
+  controlID: 86
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -452,13 +452,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.044987388, y: -0.032213725, z: 0.0017586835, w: 0.99926674}
+    m_Target: {x: 0.07181336, y: 0.080076784, z: -0.0051552397, w: 0.9949901}
     speed: 2
-    m_Value: {x: -0.044987384, y: 0.032213725, z: -0.0017586834, w: -0.9992667}
+    m_Value: {x: -0.07181336, y: -0.080076784, z: 0.00515524, w: -0.9949901}
   m_Size:
-    m_Target: 15.7158165
+    m_Target: 18.331276
     speed: 2
-    m_Value: 15.7158165
+    m_Value: 18.331276
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -618,9 +618,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f097ffff
-      m_LastClickedID: -26640
-      m_ExpandedIDs: 8cf0fdff8a09feffae2ffeffea49feff483affffb25bffffd45bffffe2bbfffff4bbffff7ef2ffff82f3ffff68fbffff54340000b6340000
+      m_SelectedIDs: 223a0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 4ef9fffffef9ffff68fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -683,11 +683,11 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\zacke\OneDrive\Desktop\git hub stuff\Personal-Project-Repo\Personl
     Project\Personal Project (Dark Space Excape Portal!)
@@ -695,9 +695,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1a3a0000
-    m_LastClickedID: 14874
-    m_ExpandedIDs: 000000001a3a00004e3a0000503a0000ac49000000ca9a3b
+    m_SelectedIDs: ec390000
+    m_LastClickedID: 14828
+    m_ExpandedIDs: 000000006039000062390000643900006639000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -725,7 +725,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001a3a00004e3a0000503a0000ac49000000ca9a3b
+    m_ExpandedIDs: 0000000060390000623900006439000066390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -752,7 +752,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 34a6000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
